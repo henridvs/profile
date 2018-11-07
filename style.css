@@ -99,3 +99,13 @@ border: 3px solid #cccccc
 .add-pading {
   padding: auto;
 }
+#ultim {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+#ultim img {
+    width: 160px;
+    border-radius: 4%;
+}
